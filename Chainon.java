@@ -10,8 +10,7 @@ class Chainon{
 		ajout = "Ajouté";
 	}
 	
-	public String litNom(){
-		return nom;
+	public String litNom(){ //3333333333333
 	}
 	
 	public String litAge(){
