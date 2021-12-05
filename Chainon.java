@@ -7,6 +7,7 @@ class Chainon{
 	public Chainon(String _nom,int _age){ //constructeur
 		nom=new String(_nom);
 		age=_age;
+		ajout = "Ajouté";
 	}
 	
 	public String litNom(){
