@@ -1,4 +1,4 @@
-class Chainon{
+class Chainon{  
 	String nom;
 	int age;
 	Chainon suiv;
